@@ -3,4 +3,4 @@
 
 https://github.com/minsiks/Team2-Semi_Project.git
 
-...
+..아니 이거 파일 삭제는 어떻게 하는거지?
